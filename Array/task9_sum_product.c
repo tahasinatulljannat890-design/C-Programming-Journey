@@ -12,7 +12,7 @@ int main(){
     for(int i=0; i<5; i++){
         sum+=num[i];
     }
-    printf("Sum = %d",sum);
+    printf("Sum = %d\n",sum);
 
     //Calculate product of array elements
     for(int i=0; i<5; i++){
